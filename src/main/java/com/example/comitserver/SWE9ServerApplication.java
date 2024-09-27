@@ -6,9 +6,9 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @EnableJpaAuditing
 @SpringBootApplication
-public class ComitServerApplication {
+public class SWE9ServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ComitServerApplication.class, args);
+		SpringApplication.run(SWE9ServerApplication.class, args);
 	}
 }
